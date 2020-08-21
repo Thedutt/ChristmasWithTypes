@@ -8,7 +8,7 @@ namespace ChristmasWithTypes
         {
             var xmas = new Christmas();
 
-            var xmasDay = "Thursday";
+            var xmasDay = Christmas.Day.Thursday;
             string firstpresent = "PS5";
             string secondpresent = "Brakes";
             string thirdpresent = "Iphone";
