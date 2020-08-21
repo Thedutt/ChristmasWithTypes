@@ -31,6 +31,12 @@ namespace ChristmasWithTypes
             }
 
             Console.WriteLine($"\n We like to call Santa, {xmasSanta}");
+
+            String auburnFanatic = "War Eagle, bama sucks, i dont understand how science works";
+
+            Console.WriteLine("December is 4 months away");
+
+            Console.WriteLine(auburnFanatic);
         }
     }
 }
