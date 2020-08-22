@@ -37,6 +37,9 @@ namespace ChristmasWithTypes
             Console.WriteLine("December is 4 months away");
 
             Console.WriteLine(auburnFanatic);
+
+            string carLine = ("2004 silver corvette");
+            Console.WriteLine(carLine);
         }
     }
 }
